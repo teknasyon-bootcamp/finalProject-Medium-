@@ -12,7 +12,13 @@ Database için localhost:8081 adresine giriyoruz
 -mariadb
 -root
 -root
+![db](https://user-images.githubusercontent.com/77531610/137210947-dc64a654-615a-4d71-8055-c234a117d498.jpg)
+mydb database adı
 
 ### localhost/index.php Anasayfamız(Anasayfadaki Get Started butonu ile login sayfamıza gidebiliriz)
+![index](https://user-images.githubusercontent.com/77531610/137211203-607bba52-62b3-409d-aaec-4d799b350492.jpg)
+### LOGIN PAGE
+![login](https://user-images.githubusercontent.com/77531610/137211241-6cd6a647-6b4c-4f0d-abde-00175dba60e7.jpg)
+
 
 ### localhost/userpage.php Giriş yaptıktan sonraki anasayfamız
