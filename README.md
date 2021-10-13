@@ -22,3 +22,8 @@ mydb database adı
 
 
 ### localhost/userpage.php Giriş yaptıktan sonraki anasayfamız
+### adminpanel
+![adminpanel](https://user-images.githubusercontent.com/77531610/137211707-744efc1b-42d7-4b11-b041-12cbc2031b53.png)
+
+### userpage
+![userpage](https://user-images.githubusercontent.com/77531610/137211805-dff18104-26c3-4794-89ed-64af0a60d418.png)
